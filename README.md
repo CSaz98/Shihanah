@@ -1,6 +1,6 @@
 # Shihanah tool
 
-![] (https://github.com/amalsannat/Shihanah/blob/main/Shihanah.gif)
+<p><img align="left" src="https://github.com/amalsannat/Shihanah/blob/main/Shihanah.gif" width="500" height="320" /><p>
 
 ## What is it? 
 Shihanah is a Threat Intelligence tool. The main funcationalitiy of this tool is to help you in **intial analysis** of (Domains, IPs, Sha1, Sha256, and MD5). 
