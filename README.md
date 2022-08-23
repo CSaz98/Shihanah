@@ -17,7 +17,7 @@ The primary purpose of the tool is to gather and provide you IOCs related to you
 - Getting all IOCs that have been seen with your input(domain,hash, or IP). Moreover, you can get them with **full details for each related IOC** after extracting the results as an excel file.
 However, you can get the related IoCs without full details when you don't export the results.
 - **For each Input/IOC you will get the following:**
-	- For Hashes (Imported Libraries, Imported functions, Threat Lable name, Size, Extension, Reputation score, other hashes(MD5, Sha256, and Sha1), and Tags) 
+	- For Hashes (Imported Libraries, Imported functions, Threat Lable name, Size, Extension, Reputation score, Tags, and other hashes(MD5, Sha256, and Sha1)) 
 	- For Domains (Reputation score, Creation Date, IP, Tags, and Threat Lable name)
 	- For IPs (Reputation score, Subnet, Country, Tags, and Threat Lable name) 
  - This tool was designed to **help in the initial analysis**, when you want to check one/multiple Suspicious/Malicious IOCs and you want to get related IOCs if exist.
