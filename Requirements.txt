@@ -1,0 +1,6 @@
+numpy==1.23.1
+openpyxl==3.0.10
+pandas==1.4.3
+requests==2.28.1
+tabulate==0.8.10
+XlsxWriter==3.0.3
