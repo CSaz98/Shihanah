@@ -8,7 +8,7 @@
 
 ## What is it ? 
 It is a threat intelligence tool. The main functionality of this tool is to help you in initial analysis of (Domains, IPs, and hashes). 
-The primary purpose of the tool is to gather and provide you IOCs related to your inputs. However, the tool will provide related IOCs if they are available in open source threat intelligence services <currently only supports Virus Total>.
+The primary purpose of the tool is to gather and provide you IOCs related to your inputs. However, the tool will provide related IOCs if they are available in open source threat intelligence services < currently only supports Virus Total>.
 
 
 ## Features :
